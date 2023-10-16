@@ -1,7 +1,8 @@
+name: Point-to-Point Channel
 tagline: 
 desc: 
 category: Messaging Channels
 index: 6
 helps: 
-tags: ["Point to Point Channel", "Message Channel", "Command Message"]
+tags: ["Point-to-Point Channel", "Message Channel", "Command Message"]
 link: https://www.enterpriseintegrationpatterns.com/patterns/messaging/PointToPointChannel.html
