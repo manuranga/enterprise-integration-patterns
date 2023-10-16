@@ -1,6 +1,6 @@
 tagline: 
 desc: 
-category: Message Router
+category: Message Routing
 index: 31
 helps: 
 tags: ["Composed Message Processor", "Aggregator", "Content Based Router"]
