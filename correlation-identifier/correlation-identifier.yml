@@ -1,5 +1,5 @@
 tagline: Identify the message that a reply is for
-desc: 
+desc: A correlation Identifier is a unique identifier that indicates which request message this reply is for.
 category: Message Construction
 index: 20
 helps: 

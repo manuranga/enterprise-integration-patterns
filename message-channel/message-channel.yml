@@ -1,5 +1,5 @@
 tagline: Connects one application to another
-desc: 
+desc: Message channel connects one application to another, where one application writes information to the channel and the other one reads.
 category: Messaging Systems
 index: 0
 helps: 

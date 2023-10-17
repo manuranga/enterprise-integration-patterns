@@ -1,4 +1,5 @@
 tagline: Divide the processing task into a sequence of smaller, independent processing steps
+desc: The pipes and Filters pattern divides a larger processing task into a sequence of smaller, independent processing steps (Filters) that are connected by channels (Pipes).
 category: Messaging Systems
 index: 2
 link: https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html

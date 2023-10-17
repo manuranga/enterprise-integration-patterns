@@ -1,5 +1,5 @@
 tagline: Reduce message volume and send across the system without losing message content
-desc: Claim Check will store messages store in a persistent storage and send a claim to another apllication to access the origin stored message.
+desc: Claim Check will store messages in a persistent storage and send a claim to another application to access the origin stored message.
 category: Message Transformation
 index: 39
 helps:

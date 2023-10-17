@@ -1,5 +1,5 @@
 tagline: Route messages to multiple recipients
-desc: 
+desc: The recipient list pattern inspects an incoming message, determines the list of desired recipients, and forwards the message to all channels associated with the recipients in the list.
 category: Message Routing
 index: 27
 helps: 

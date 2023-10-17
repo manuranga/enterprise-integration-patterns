@@ -1,5 +1,5 @@
 tagline: Safely receive the same message multiple times
-desc: 
+desc: An idempotent receiver is a receiver that can safely receive the same message multiple times.
 category: Messaging Endpoints
 index: 51
 helps: 

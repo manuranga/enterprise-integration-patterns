@@ -1,5 +1,5 @@
 tagline: Data transmitted through a message channel
-desc: 
+desc: Message is a data record that the messaging system can transmit through a message channel.
 category: Messaging Systems
 index: 1
 helps: 

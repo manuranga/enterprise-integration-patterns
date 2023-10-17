@@ -1,6 +1,6 @@
 name: Point-to-Point Channel
 tagline: Ensures that only one receiver will receive a particular message
-desc: 
+desc: Point-to-Point Channel ensures that only one receiver consumes any given message.
 category: Messaging Channels
 index: 6
 helps: 
