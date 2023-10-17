@@ -36,8 +36,8 @@ service /api/v1 on new http:Listener(8080) {
 function sendReminder(Attendee attendee, string eventName, string date) returns error? {
     string body = string `Hi ${attendee.name}, looking forward to meet you at the ${eventName} on ${date}`;
     string payload = "From=" + check url:encode(FROM_NO, "utf-8") +
-                     "&To=" + check url:encode(attendee.number, "utf-8") +
-                     "&Body=" + check url:encode(body, "utf-8");
+                    "&To=" + check url:encode(attendee.number, "utf-8") +
+                    "&Body=" + check url:encode(body, "utf-8");
     http:Request twilioReq = new;
     twilioReq.setTextPayload(payload, contentType = mime:APPLICATION_FORM_URLENCODED);
     _ = check twilio->/[API_VERSION]/Accounts/[TWILIO_SID]/Messages\.json.post(twilioReq, targetType = http:Response);
