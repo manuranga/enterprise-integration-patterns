@@ -1,5 +1,5 @@
 name: Point-to-Point Channel
-tagline: 
+tagline: Ensures that only one receiver will receive a particular message
 desc: 
 category: Messaging Channels
 index: 6

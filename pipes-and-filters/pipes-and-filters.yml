@@ -1,3 +1,4 @@
+tagline: Divide the processing task into a sequence of smaller, independent processing steps
 category: Messaging Systems
 index: 2
 link: https://www.enterpriseintegrationpatterns.com/patterns/messaging/PipesAndFilters.html
